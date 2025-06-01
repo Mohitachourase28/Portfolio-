@@ -10,7 +10,6 @@ import {
   FaGithub,
   FaJava,
   FaCode,
-  FaFirebase
 } from "react-icons/fa";
 import {
   SiTailwindcss,
@@ -26,6 +25,7 @@ import {
 } from "react-icons/si";
 import { MdDesignServices } from "react-icons/md"; // fallback for Material UI
 import { motion } from "framer-motion";
+import { IoLogoFirebase } from "react-icons/io5";
 
 const skills = [
   { name: "HTML", icon: <FaHtml5 color="#e34c26" /> },
@@ -49,7 +49,7 @@ const skills = [
   { name: "VS Code", icon: <FaCode color="#007acc" /> },
   { name: "Postman", icon: <SiPostman color="#ff6c37" /> },
   { name: "Java", icon: <FaJava color="#007396" /> },
-  { name: "Firebase", icon: <FaFirebase color="#ffca28" /> },
+  { name: "Firebase", icon: <IoLogoFirebase color="#ffca28" /> },
   { name: "Git", icon: <FaGithub color="#f1502f" /> },
   { name: "Canva", icon: <SiCanva color="#00c4cc" /> },
   { name: "Figma", icon: <SiFigma color="#f24e1e" /> },

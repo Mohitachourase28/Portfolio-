@@ -1,17 +1,36 @@
-<<<<<<< HEAD
-# Portfolio-
+# 🚀 Personal Portfolio Website
 React + Tailwind CSS + Framer motion portfolio 
 =======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[🔗 Live Demo](https://your-portfolio-demo-link.com)
 
-Currently, two official plugins are available:
+A vibrant and modern portfolio website showcasing my skills, projects, and contact information — designed with smooth animations and clean UI to leave a lasting impression.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Highlights
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 7ca7d9c (Initial commit)
+- 🎨 **Colorful UI**: The website features a bright and engaging visual theme, making every section feel dynamic and alive.
+- 🎬 **Framer Motion**: Every transition and interaction includes smooth and smart animations powered by Framer Motion.
+- 🧠 **About Section**: Includes a short introduction and a skill showcase with animated cards for technologies I work with.
+- 🛠️ **Projects Section**: Each project is displayed in a stylish animated sub-card format, including images and direct links.
+- 📬 **Contact Form**: Integrated with **EmailJS** so visitors can send messages directly through the site.
+- 📱 **Responsive Design**: Fully mobile-friendly with an animated navbar and hamburger menu for smaller screens.
+
+---
+
+## 🔧 Built With
+
+- **React.js**
+- **Tailwind CSS**
+- **Framer Motion**
+- **EmailJS**
+- **Lucide Icons**
+
+---
+
+## 💌 Let's Connect
+
+Whether you're here to explore my work or want to reach out for a collaboration, feel free to use the contact form on the website. I’d love to hear from you!
+
+
