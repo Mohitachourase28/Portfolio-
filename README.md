@@ -2,7 +2,7 @@
 React + Tailwind CSS + Framer motion portfolio 
 =======
 
-[🔗 Live Demo](https://your-portfolio-demo-link.com)
+[🔗 Live Demo](https://portfolio-6vis.vercel.app/)
 
 A vibrant and modern portfolio website showcasing my skills, projects, and contact information — designed with smooth animations and clean UI to leave a lasting impression.
 
