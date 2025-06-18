@@ -1,36 +1,47 @@
 # 🚀 Personal Portfolio Website
-React + Tailwind CSS + Framer motion portfolio 
-=======
 
-[🔗 Live Demo](https://portfolio-6vis.vercel.app/)
+**Live Demo:** [portfolio-6vis.vercel.app](https://portfolio-6vis.vercel.app/)
 
-A vibrant and modern portfolio website showcasing my skills, projects, and contact information — designed with smooth animations and clean UI to leave a lasting impression.
+A vibrant, modern portfolio site built using **React**, **Tailwind CSS**, and **Framer Motion** — designed to showcase my skills, projects, and personality through smooth animations and an interactive user experience.
 
 ---
 
-## ✨ Highlights
+## ✨ Key Highlights
 
-- 🎨 **Colorful UI**: The website features a bright and engaging visual theme, making every section feel dynamic and alive.
-- 🎬 **Framer Motion**: Every transition and interaction includes smooth and smart animations powered by Framer Motion.
-- 🧠 **About Section**: Includes a short introduction and a skill showcase with animated cards for technologies I work with.
-- 🛠️ **Projects Section**: Each project is displayed in a stylish animated sub-card format, including images and direct links.
-- 📬 **Contact Form**: Integrated with **EmailJS** so visitors can send messages directly through the site.
-- 📱 **Responsive Design**: Fully mobile-friendly with an animated navbar and hamburger menu for smaller screens.
-
----
-
-## 🔧 Built With
-
-- **React.js**
-- **Tailwind CSS**
-- **Framer Motion**
-- **EmailJS**
-- **Lucide Icons**
+- 🎨 **Dynamic UI:** Colorful, modern layout that blends minimalism with visual energy.
+- 🎬 **Smooth Animations:** Seamless transitions and hover effects powered by Framer Motion.
+- 🧠 **About & Skills Section:** Animated technology cards and a personal intro with key skills.
+- 🛠️ **Projects Showcase:** Highlighted with screenshots, live links, and GitHub buttons.
+- 📬 **Integrated Contact Form:** Connected via **EmailJS** to directly send messages from the site.
+- 📱 **Fully Responsive:** Optimized for all devices with an animated mobile navbar.
 
 ---
 
-## 💌 Let's Connect
+## 🛠 Tech Stack
 
-Whether you're here to explore my work or want to reach out for a collaboration, feel free to use the contact form on the website. I’d love to hear from you!
+- **Frontend:** React (with Hooks), Vite
+- **Styling:** Tailwind CSS, Framer Motion
+- **Email Service:** EmailJS
+- **Icons:** Lucide Icons
+
+---
+
+## 🖼️ Pages & Components
+
+- `/` – Home + Hero Banner  
+- `/about` – Personal bio + skillset with tech cards  
+- `/projects` – Projects with links, images & smooth hover effects  
+- `/contact` – EmailJS-powered form with styled inputs and animations  
+
+---
+
+## 📬 Connect with Me
+
+Whether you’re a recruiter, collaborator, or fellow builder — feel free to drop a message via the [Contact Form](https://portfolio-6vis.vercel.app/#contact) on the site.
+
+Let’s connect, build, or brainstorm together. ⚡  
+[🔗 LinkedIn](https://www.linkedin.com/in/mohita-chourase/) | [💻 GitHub](https://github.com/Mohitachourase28)
+
+---
 
 
